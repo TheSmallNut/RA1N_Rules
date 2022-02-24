@@ -6,8 +6,7 @@ The Rules for RA1N League
 
 ### Lobby Settings
 
-| Setting     | Option      |
-| ----------- | ----------- |
+| Setting| Option|
 | Game Mode   | 1v1 Solo Mid|
 | Server Location   | US East        |
 | Cheats | Disabled |
